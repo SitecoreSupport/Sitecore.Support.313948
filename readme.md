@@ -1,5 +1,5 @@
 # Sitecore.Support.313948
-Commulative patch for the wishes 310372, 313757, 313758
+Commulative patch for the issues 310372, 313757, 313758
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.313948/blob/master/LICENSE).  
